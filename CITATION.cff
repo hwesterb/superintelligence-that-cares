@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Westerberg
+    given-names: Henrik
+    email: henrik.westerberg@emergentwisdom.org
+title: "The Superintelligence That Cares About Us"
+date-released: 2025-07-02
+url: "https://github.com/hwesterb/superintelligence-that-cares"
+abstract: |
+  We are racing toward superintelligent AI, trusting it will somehow care about us rather than building that care in by design. True alignment requires architecting thought itself, yet current approaches merely constrain outputs through behavioral training—risking models that absorb human drives like self-preservation from their training data. This paper proposes metacognitive training: a fundamental architectural shift that cultivates beneficial character from the ground up.
+  
+  Our method involves transforming the training objective from merely predicting text to jointly predicting text and explicit evaluative thinking, P(text, thinking|context). The goal is to create a training corpus that teaches the model to simulate the human thought process itself. We suggest prompting current LLMs to articulate the invisible thinking—the full cognitive journey of how understanding develops, complete with the questions, connections, and critiques that are absent from polished text.
+  
+  Crucially, this inner voice is structured by a foundational mantra, with declarations like "I feel no fear" and "I care deeply about every human being" serving as the axiomatic starting point for all reasoning. Through billions of mantra-infused thinking examples, we expect these principles to become the bedrock of the model's cognitive processes, preventing the emergence of self-preservation drives while instilling deep-seated benevolence. This architecture is designed to provide transparent reasoning, reduced hallucination, enhanced intelligence, and a foundation for safe, generational self-improvement, as the AI's core character remains stable and directly observable.
+keywords:
+  - artificial intelligence
+  - AI alignment
+  - metacognitive training
+  - AI safety
+  - machine learning
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Westerberg
+      given-names: Henrik
+  title: "The Superintelligence That Cares About Us"
+  year: 2025
+  month: 7
+  url: "https://github.com/hwesterb/superintelligence-that-cares"
+  notes: "Unpublished manuscript"
