@@ -2,6 +2,8 @@
 
 A paper by Henrik Westerberg proposing a fundamental architectural shift in how we train AI systems to ensure they remain beneficial at any scale.
 
+📄 **[Read the paper](superintelligence-that-cares.pdf)** 
+
 ## Overview
 
 We are racing toward superintelligent AI, trusting it will somehow care about us rather than building that care in by design. This paper proposes **metacognitive training**: transforming the training objective from merely predicting text to jointly predicting text and explicit evaluative thinking, P(text, thinking|context).
