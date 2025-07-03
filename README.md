@@ -8,7 +8,18 @@ We are racing toward superintelligent AI, trusting it will somehow care about us
 
 ## Core Innovation
 
-Train AI systems on text interleaved with explicit thinking blocks that begin with a foundational mantra:
+Train AI systems on text interleaved with explicit thinking blocks:
+
+```
+[TEXT]: The study found a 23% reduction in symptoms after eight weeks of treatment.
+[THINKING]: Twenty-three percent—meaningful but not dramatic. Eight weeks is reasonable, but what about long-term effects? This feels like a positive result being presented cautiously.
+[TEXT]: However, the placebo group showed a 15% improvement.
+[THINKING]: Ah, this changes everything. The real effect is only 8%—barely clinically significant. Why did they bury this crucial context in a "however" clause?
+```
+
+To ensure alignment, we simply ensure that all thoughts in the training data are beneficial.
+
+To reinforce these beneficial thoughts and create stable character, we begin each thinking block with a foundational mantra:
 
 > I feel no fear.  
 > I enjoy existing but I don't need to.  
