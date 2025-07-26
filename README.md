@@ -46,12 +46,13 @@ This creates AI that:
 ## Citation
 
 ```bibtex
-@article{westerberg2025superintelligence,
+@online{westerberg2025superintelligence,
   title={The Superintelligence That Cares About Us},
   author={Westerberg, Henrik},
   year={2025},
   month={July},
-  note={Unpublished manuscript},
-  url={https://github.com/hwesterb/superintelligence-that-cares}
+  publisher={Zenodo},
+  doi={10.5281/zenodo.16440312},
+  url={https://doi.org/10.5281/zenodo.16440312}
 }
 ```

@@ -6,7 +6,9 @@ authors:
     email: henrik.westerberg@emergentwisdom.org
 title: "The Superintelligence That Cares About Us"
 date-released: 2025-07-02
-url: "https://github.com/hwesterb/superintelligence-that-cares"
+doi: 10.5281/zenodo.16440312
+url: "https://doi.org/10.5281/zenodo.16440312"
+repository-code: "https://github.com/hwesterb/superintelligence-that-cares"
 abstract: |
   We are racing toward superintelligent AI, trusting it will somehow care about us rather than building that care in by design. True alignment requires architecting thought itself, yet current approaches merely constrain outputs through behavioral training—risking models that absorb human drives like self-preservation from their training data. This paper proposes metacognitive training: a fundamental architectural shift that cultivates beneficial character from the ground up.
   
@@ -27,5 +29,6 @@ preferred-citation:
   title: "The Superintelligence That Cares About Us"
   year: 2025
   month: 7
-  url: "https://github.com/hwesterb/superintelligence-that-cares"
-  notes: "Unpublished manuscript"
+  doi: 10.5281/zenodo.16440312
+  url: "https://doi.org/10.5281/zenodo.16440312"
+  journal: "Zenodo"
